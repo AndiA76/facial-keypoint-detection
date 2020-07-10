@@ -84,8 +84,8 @@ Please create a sub-directory `data` in your local project folder and download t
 ```
 mkdir data
 cd data
-https://github.com/udacity/P1_Facial_Keypoints/tree/master/data
 ```
+Download Udacity's original project repository from https://github.com/udacity/P1_Facial_Keypoints and look in the sub-directory `data` for the dataset. Copy all files and folders to your local project directory `facial-keypoint-detection/data`.
 
 
 ### 5. Install Pytorch with GPU support

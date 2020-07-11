@@ -1,15 +1,10 @@
-[//]: # (Image References)
-
-[image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
-
-
 # Facial Keypoint Detection using CNNs built from scratch and Pytorch
 
 ## Overview
 
 This project from Udacity's nano-degree course "Computer Vision" is about Facial Keypoint Detection using Convolutional Neural Networks (CNNs) and Pytorch. The task is to combine computer vision and deep-learning techniques to built a Facial Keypoint Detector based on a CNN model built from scratch, which is trained on a labeled dataset of color images to detect characteristic keypoints of human faces. Facial keypoints include points around the eyes, nose, mouth on a face and the outer facial contour. Potential applications are facial tracking, facial pose recognition, facial filters, or emotion recognition. 
 
-![Facial Keypoint Detection][image1]
+[Facial Keypoint Detection](images/key_pts_example.png)
 
 For training, model validation and testing of the facial keypoint detector a dataset has been extracted from the [YouTube Faces Dataset](https://www.cs.tau.ac.il/~wolf/ytfaces/), which includes videos of people in YouTube videos. These videos have been fed through some processing steps and turned into sets of image frames containing one face and the associated keypoints.
 

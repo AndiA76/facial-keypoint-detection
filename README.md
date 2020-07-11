@@ -15,13 +15,13 @@ For training, model validation and testing of the facial keypoint detector a dat
 
 The project is broken down in the following subtasks, which are implemented using Python in individual Jupyter notebooks:
 
-__Notebook 1__ : Loading and Visualizing the Facial Keypoint Data ![1. Load and Visualize Data](./1. Load and Visualize Data.ipynb)
+__Notebook 1__ : Loading and Visualizing the Facial Keypoint Data [1. Load and Visualize Data](#1. Load and Visualize Data.ipynb)
 
-__Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints ![2. Define the Network Architecture](./2. Define the Network Architecture.ipynb)
+__Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints [2. Define the Network Architecture](./2. Define the Network Architecture.ipynb)
 
-__Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained CNN ![3. Facial Keypoint Detection, Complete Pipeline](./3. Facial Keypoint Detection, Complete Pipeline.ipynb)
+__Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained CNN [3. Facial Keypoint Detection, Complete Pipeline](./3. Facial Keypoint Detection, Complete Pipeline.ipynb)
 
-__Notebook 4__ : Fun Filters and Keypoint Uses ![4. Fun with Keypoints](./4. Fun with Keypoints.ipynb)
+__Notebook 4__ : Fun Filters and Keypoint Uses [4. Fun with Keypoints](./4. Fun with Keypoints.ipynb)
 
 
 ### Further Project Instructions from Udadity

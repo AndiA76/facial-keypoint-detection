@@ -10,13 +10,13 @@ For training, model validation and testing of the facial keypoint detector a dat
 
 The project is broken down in the following subtasks, which are implemented using Python in individual Jupyter notebooks:
 
-__Notebook 1__ : Loading and Visualizing the Facial Keypoint Data s. [project notebook 1](1. Load and Visualize Data.ipynb)  
+__Notebook 1__ : Loading and Visualizing the Facial Keypoint Data s. [project notebook 1](1_Load_and_Visualize_Data.ipynb)  
 
-__Notebook 2__ : Defining the Architecture and Training a CNN to Predict Facial Keypoints s. [project notebook 2](2. Define the Network Architecture.ipynb)  
+__Notebook 2__ : Defining the Architecture and Training a CNN to Predict Facial Keypoints s. [project notebook 2](2_Define_the_Network_Architecture.ipynb)  
 
-__Notebook 3__ : Facial Keypoint Detection Pipeline using Haar Cascades and the trained CNN s. [project notebook 3](3. Facial Keypoint Detection, Complete Pipeline.ipynb)  
+__Notebook 3__ : Facial Keypoint Detection Pipeline using Haar Cascades and the trained CNN s. [project notebook 3](3_Facial_Keypoint_Detection_Complete_Pipeline.ipynb)  
 
-__Notebook 4__ : Fun Filters and Examples of Facial Keypoint Uses s. [project notebook 4](4. Fun with Keypoints.ipynb)  
+__Notebook 4__ : Fun Filters and Examples of Facial Keypoint Uses s. [project notebook 4](4_Fun_with_Keypoints.ipynb)  
 
 
 ### Further Project Instructions from Udadity
@@ -72,7 +72,7 @@ This preprocessed facial keypoints dataset extract consists of 5770 color images
 
 The information about the images and the keypoints in (x, y) coordinates in this dataset are summarized in CSV files, which we can read in using `pandas`. 
 
-All of the data you'll need to train, validate and test the CNN models in this repo are stored in a sub-directory `data`. In this folder are training and tests set of image/keypoint data, and their respective csv files. This will be further explored in [project notebook 1](1. Load and Visualize Data.ipynb).
+All of the data you'll need to train, validate and test the CNN models in this repo are stored in a sub-directory `data`. In this folder are training and tests set of image/keypoint data, and their respective csv files. This will be further explored in [project notebook 1](1_Load_and_Visualize_Data.ipynb).
 
 Please create a sub-directory `data` in your local project folder and download the image dataset directly from Udacity's github repository. This may take a few minutes to clone or download due to the size.
 
@@ -111,9 +111,9 @@ jupyter notebook
 
 Navigate to your local project folder in the Jupyter notebook, open the notebooks 1...4
 
-* [1. Load and Visualize Data](1. Load and Visualize Data.ipynb)  
-* [2. Define the Network Architecture](2. Define the Network Architecture.ipynb)  
-* [3. Facial Keypoint Detection, Complete Pipeline](3. Facial Keypoint Detection, Complete Pipeline.ipynb)  
-* [4. Fun with Keypoints](4. Fun with Keypoints.ipynb)  
+* [1. Load and Visualize Data](1_Load_and_Visualize_Data.ipynb)  
+* [2. Define the Network Architecture](2_Define_the_Network_Architecture.ipynb)  
+* [3. Facial Keypoint Detection, Complete Pipeline](3_Facial_Keypoint_Detection_Complete_Pipeline.ipynb)  
+* [4. Fun with Keypoints](4_Fun_with_Keypoints.ipynb)  
 
 and run them one after another.
